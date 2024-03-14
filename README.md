@@ -18,3 +18,11 @@
 <a href="https://linkedin.com/in/gustavoviniciusribeirokley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavoviniciusribeirokley" height="30" width="40" /></a>
 <a href="https://instagram.com/kley_guu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kley_guu" height="30" width="40" /></a>
 </p>
+
+##
+
+<h3 align="left"> GitHub Stats:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-kley&show_icons=true&theme=dark&locale=en" alt="gustavo-kley" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-kley&theme=dark" alt="gustavo-kley" /></p>
+
