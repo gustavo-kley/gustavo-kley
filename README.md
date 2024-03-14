@@ -1,6 +1,6 @@
 ![ezgif com-resize](https://github.com/gustavo-kley/gustavo-kley/assets/163368587/7c0c78cc-dc8f-49a4-aaaa-bb44aba67b4b)
 
-<h3 align="left">Olá! Eu sou o Gustavo Kley.</h3>
+<h3 align="left">Olá! Eu sou o Gustavo Kley</h3>
 <h3 align="left">É um prazer receber você em meu repositório!</h3>
 
 - 🔭 Estou em busca do meu primeiro emprego.
